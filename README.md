@@ -1,0 +1,1 @@
+# Wechat-Alert-for-Zabbix
