@@ -12,7 +12,7 @@ PURL="https://qyapi.weixin.qq.com/cgi-bin/message/send?access_token=$Gtoken"
 
 function body() {
 
-local int AppID=1000004
+local int AppID=1000005
 
 local UserID=002
 
